@@ -1,4 +1,5 @@
-# COS30017 Software Development for Mobile Devices 移动设备软件开发 - 课程大纲
+# COS30017 Software Development for Mobile Devices 
+# COS30017 移动设备软件开发 - 课程大纲
 
 ---
 
